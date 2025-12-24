@@ -4,7 +4,7 @@
    :caption: keyes KE0167 Starter
 
    README.md
-   docs/KE0167 Keyes套件 桌面 蓝牙 多功能智能小车
+   docs/桌面迷你蓝牙智能车
 
 
 
